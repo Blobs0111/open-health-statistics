@@ -28,7 +28,7 @@ Using end-to-end open source analytics: python, plotly, github.io, and github ac
 ### Installation
 *Add instructions for how someone can install and set-up project
 
-*Add instructions for use of your project once installed
+*Add instructions for use of the project once installed
 
 ### How to Contribute
 
